@@ -1,4 +1,4 @@
-import Inputs from "./components/inputs";
+import Inputs from "./components/Inputs";
 import TopButtons from "./components/TopButtons";
 import TimeAndLocation from "./components/TimeAndLocation";
 import TempAndDetails from "./components/TempAndDetails";
